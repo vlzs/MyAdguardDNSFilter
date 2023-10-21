@@ -1,3 +1,4 @@
+! Title: PC
 ! PCのみ
 ||twitter.com^
 ||reddit.com^
