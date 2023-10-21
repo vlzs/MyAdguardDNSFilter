@@ -20,5 +20,7 @@ DNS Filter List「PCAndPhone」のURLはGithub内のファイルをたどると�
 ![image](https://github.com/kozv/MyAdguardDNSFilter/assets/86694578/b18bd1b5-a318-475e-90ff-d5e78f93a888)
 
 「||」をすべて「*://*.」に置き換えてください。
-「^」をすべて「/*」に置き換えてください
-!で始まる行を削除してください
+
+「^」をすべて「/*」に置き換えてください。
+
+!で始まる行を削除してください。
