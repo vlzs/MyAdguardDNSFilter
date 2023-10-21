@@ -1,6 +1,14 @@
 # MyAdguardDNSFilter
 My AdGuard DNS Filter List
 
+# How to Use
+
+DNS Filter List「PCAndPhone.txt」のリンクをAdguardに読み込みます
+![image](https://github.com/kozv/MyAdguardDNSFilter/assets/86694578/72f8f15f-c581-43d5-8f79-b7ef69e27752)
+![image](https://github.com/kozv/MyAdguardDNSFilter/assets/86694578/b573b315-01d2-4bd5-adc3-d85be23a374a)
+
+# How To Get Raw List URL !
+
 
 # 検索結果からも非表示にする
 
