@@ -1,0 +1,93 @@
+[Adblock Plus]
+! Version: 202310210417
+! Title: DTM Sale JPN
+! Description: Block. Don't break.
+! Last modified: 2023-10-21T04:17:52+0000
+! Expires: 1 hours
+! Homepage: https://scrapbox.io/ork
+! Syntax: Adguard Filter List
+! Maintainer: kozv
+! Contact: umineco112a@gmail.com
+
+! 日本語でDTMセール情報を発信されている方
+||computermusic.jp^
+||dtmer.info^
+||dtm-sale.com^
+||dtmstation.com^
+||freekontaktina.com^
+||sawayakatrip.com^
+||miroc.co.jp^
+||azu-soundworks.net^
+||guitar-type.com^
+
+! SNS、イラスト投稿サイト
+||misskey.io^
+||threads.net^
+||twitter.com^
+||twitter.com/search?q=*
+||twitter.com/explore*
+||mastodon.social^
+||mstdn.jp^
+||mixi.io^
+||nitter.fdn.fr^
+||pixiv.net^
+@@||accounts.pixiv.net^
+||seiga.nicovideo.jp^
+||tiktok.com^
+||nitter.domain.glass^
+||nitter.fdn.fr^
+||nitter.it^
+||nitter.net^
+||pawoo.net^
+||pinterest.com^
+||instagram.com^
+
+! 苦手な情報（言葉選びが苦手で影響を受けたくなかったり、見ていて時間が失われたもの、都市伝説や陰謀論を扱うもの）
+||togetter.com^
+||karapaia.com^
+||gigazine.net^
+||piccoma.com^
+||syosetu.com^
+||kakuyomu.jp^
+||alphapolis.co.jp^
+||impress.co.jp^
+||yahoo.co.jp^
+||chiebukuro.yahoo.co.jp^
+||wired.com^
+||curazy.com^
+||rocketnews24.com^
+||ascii.jp^
+||itmedia.co.jp^
+||gizmodo.jp^ 
+||melonbooks.co.jp^
+||5ch.net^
+||news.nicovideo.jp^
+||yomiuri.co.jp^
+||civitai.com^
+||news.nicovideo.jp^
+||toyokeizai.net^
+
+! 車のニュース
+||kuruma-news.jp^
+||response.jp^ 
+||trafficnews.jp^
+||as-web.jp^
+||jp.motorsport.com^
+||tamiya.com^
+
+! ライフハックが増えるもの。知ってるけど使ってない道具が多いので、新しい方法への出会いを保留したい
+||itmedia.co.jp^
+||quora.com^
+
+! google以外の検索エンジン
+||baidu.com^
+||dackdackgo.com^
+||bing.com^
+
+||istockphoto.com^
+
+! スマホのみ
+! ||nicovideo.jp^
+! PCのみ
+! ||twitter.com^
+! ||reddit.com^
