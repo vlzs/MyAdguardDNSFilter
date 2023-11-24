@@ -76,6 +76,6 @@
 ! google以外の検索エンジン
 ||baidu.com^
 ||dackdackgo.com^
-bing.com^
+! ||bing.com^
 
 ||istockphoto.com^
