@@ -69,7 +69,8 @@
 ||istockphoto.com^
 ||icon.jp^
 ||twitter.com
-@@twitter.com/valzous
+@@||twitter.com/intent/tweet?^
+//AdguardのDNS Filterでドメインはブロックしサブディレクトリを例外にするにはどうやるの？
 
 ! 車のニュース
 ||kuruma-news.jp^
