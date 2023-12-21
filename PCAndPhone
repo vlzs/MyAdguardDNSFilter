@@ -14,8 +14,8 @@
 ||azu-soundworks.net^
 ||guitar-type.com^
 ! セール情報
-||https://www.audiopluginguy.com^
-||https://audioplugin.deals^
+||audiopluginguy.com^
+||audioplugin.deals^
 
 ! SNS、イラスト投稿サイト
 ||misskey.io^
@@ -23,23 +23,25 @@
 ||mastodon.social^
 ||mstdn.jp^
 ||mixi.io^
-||nitter.fdn.fr^
 ||pixiv.net^
 @@||accounts.pixiv.net^
 @@||accounts.pixiv.net/login?^
 ||seiga.nicovideo.jp^
 ||tiktok.com^
-||nitter.domain.glass^
-||nitter.fdn.fr^
-||nitter.it^
-||nitter.net^
+||nitter*
+!||nitter.com^
+!||nitter.domain.glass^
+!||nitter.fdn.fr^
+!||nitter.it^
+!||nitter.net^
+! AdguardのDNSFilterでは表現を省略できても、DNSFilterの中身を整形して使うuBlacklistでは個々に分かれていたほうが助かるかも
 ||pawoo.net^
 ||pinterest.com^
 ||instagram.com^
 ||https://twitter.com/search?^
 ||https://twitter.com/explore^
-||https://twoucan.com/^
-||https://buhitter.com/^
+||twoucan.com/^
+||buhitter.com/^
 
 ! 苦手な情報（言葉選びが苦手で影響を受けたくなかったり、見ていて時間が失われたもの、都市伝説や陰謀論を扱うもの）
 ||togetter.com^
