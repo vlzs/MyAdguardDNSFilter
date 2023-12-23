@@ -70,9 +70,11 @@
 ||Reddit.com^
 ||istockphoto.com^
 ||icon.jp^
-!||twitter.com
+||twitter.com
 @@||twitter.com/intent/tweet?^
 //AdguardのDNS Filterでドメインはブロックしサブディレクトリを例外にするにはどうやるの？
+//ツイッターを開放するときはPC用のフィルタから例外の文を適用する
+//スマホで見たくない
 
 ! 車のニュース
 ||kuruma-news.jp^
