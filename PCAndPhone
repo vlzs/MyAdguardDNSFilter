@@ -70,7 +70,7 @@
 ||Reddit.com^
 ||istockphoto.com^
 ||icon.jp^
-||twitter.com
+!||twitter.com
 @@||twitter.com/intent/tweet?^
 //AdguardのDNS Filterでドメインはブロックしサブディレクトリを例外にするにはどうやるの？
 
