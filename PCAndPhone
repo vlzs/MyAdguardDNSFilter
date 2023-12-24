@@ -91,5 +91,6 @@
 
 ! google以外の検索エンジン
 ||baidu.com^
+@@||map.baidu.com^
 ||dackdackgo.com^
 ||bing.com^
