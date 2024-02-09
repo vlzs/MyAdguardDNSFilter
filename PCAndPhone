@@ -98,3 +98,12 @@
 @@||map.baidu.com^
 ||dackdackgo.com^
 ||bing.com^
+||ecosia.org^
+||searx.thegpm.org^
+||yandex.com^
+||search.brave.com^
+||metager.org^
+||Dogpile.com^
+! DNSをすり抜けるもの
+||startpage.com^
+||swisscows.com^
