@@ -77,7 +77,7 @@
 //||twitter.com
 //@@||twitter.com/intent/tweet?^
 //||twitter.com/home$script
-//adguardのフィルターをオン・オフしているとAdguardの起動に慣れてしまい解除しがちになる。ツイッターの閲覧制限は別のアプリで行うことにした
+//adguardのフィルターをオン・オフしているとAdguardの起動に慣れてくるのか、フィルタリングを解除しやすくなってるみたい。ツイッターの閲覧制限は別のアプリで行うことにした
 //||twitter.com/home^$document
 //AdguardのDNS Filterでドメインはブロックしサブディレクトリを例外にするにはどうやるの？
 //ツイッターを開放するときはPC用のフィルタから例外の文を適用する
