@@ -29,11 +29,11 @@
 ||seiga.nicovideo.jp^
 ||tiktok.com^
 ||nitter*
-!||nitter.com^
-!||nitter.domain.glass^
-!||nitter.fdn.fr^
-!||nitter.it^
-!||nitter.net^
+||nitter.com^
+||nitter.domain.glass^
+||nitter.fdn.fr^
+||nitter.it^
+||nitter.net^
 ! AdguardのDNSFilterでは表現を省略できても、DNSFilterの中身を整形して使うuBlacklistでは個々に分かれていたほうが助かるかも
 ||pawoo.net^
 ||pinterest.com^
@@ -56,7 +56,7 @@
 ||kakuyomu.jp^
 ||alphapolis.co.jp^
 ||impress.co.jp^
-!||yahoo.co.jp^
+||yahoo.co.jp^
 ||chiebukuro.yahoo.co.jp^
 ||wired.com^
 ||wired.jp^
@@ -95,7 +95,7 @@
 
 ! ライフハックが増えるもの。知ってるけど使ってない道具が多いので、新しい方法への出会いを保留したい
 ||itmedia.co.jp^
-!||quora.com^
+||quora.com^
 
 ! google以外の検索エンジン
 ||baidu.com^
