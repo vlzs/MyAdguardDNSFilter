@@ -75,7 +75,7 @@
 ||Reddit.com^
 ||istockphoto.com^
 ||icon.jp^
-!||twitter.com
+! ||twitter.com
 !@@||twitter.com/intent/tweet?^
 ?||twitter.com/home$script
 !adguardのフィルターをオン・オフしているとAdguardの起動に慣れてくるのか、フィルタリングを解除しやすくなってるみたい。ツイッターの閲覧制限は別のアプリで行うことにした
