@@ -1,3 +1,4 @@
 ! Title: PC
-! ||twitter.com^
+||twitter.com^
 ! TwitterはPCで使う（→日曜日の午後5~6時だけPCで（Microsoft Edgeで）Twitterを使えるようにする）
+||wikipedia.com^
