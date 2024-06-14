@@ -1,6 +1,7 @@
 ! Title: Phone
 !||nicovideo.jp^
-||twitter.com^
-||x.com^
+! ||twitter.com^
+! ||x.com^
 !||youtube.com^
 !||m.youtune.com^
+! adguardでフィルターを解除する習慣を作らないためにツイッターなどのブロッキングはappblockなどで行う。appblockの制限は解除してもadguardには触らない。adguardを解除する習慣を作らない
