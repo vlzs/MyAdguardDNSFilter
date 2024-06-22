@@ -76,7 +76,7 @@
 ||Reddit.com^
 ||istockphoto.com^
 ||icon.jp^
-||x.com
+! ||x.com
 ||twitter.com
 !@@||twitter.com/intent/tweet?^
 ?||twitter.com/home$script
