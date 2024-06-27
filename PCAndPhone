@@ -79,14 +79,11 @@
 ||istockphoto.com^
 ||icon.jp^
 ! ||x.com
-||twitter.com
-!@@||twitter.com/intent/tweet?^
-?||twitter.com/home$script
-!adguardのフィルターをオン・オフしているとAdguardの起動に慣れてくるのか、フィルタリングを解除しやすくなってるみたい。ツイッターの閲覧制限は別のアプリで行うことにした
+! ||twitter.com
+! @@||twitter.com/intent/tweet?^
+! ||twitter.com/home$script
+!adguardのフィルターをオン・オフしているとAdguardの起動に慣れてくる。フィルタリングを解除しやすくなってるみたい。ツイッターの閲覧制限は別のアプリで行うことにした
 !||twitter.com/home^$document
-!AdguardのDNS Filterでドメインはブロックしサブディレクトリを例外にするにはどうやるの？
-!ツイッターを開放するときはPC用のフィルタから例外の文を適用する
-!スマホで見たくない
 
 ! 車のニュース
 ||kuruma-news.jp^
@@ -121,6 +118,6 @@
 ||ecosia.org^
 
 ||Dogpile.com^
-! DNSをすり抜けるもの
+! DNSブロックをすり抜けるもの
 ||startpage.com^
 ||swisscows.com^
