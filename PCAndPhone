@@ -3,6 +3,14 @@
 ! Maintainer: kozv
 ! Contact: umineco112a@gmail.com
 
+!ミニゲーム
+||rekari.namagame.coe.nicovideo.jp^
+||rekari.namagame.coe.nicovideo.jp/games/^
+||suika.gg^
+||suikagame.io^
+
+
+
 ! 日本語でDTMセール情報を発信されている方
 ||computermusic.jp^
 ||dtmer.info^
@@ -17,12 +25,7 @@
 ||audiopluginguy.com^
 ||audioplugin.deals^
 
-! SNS、イラスト投稿サイト
-||misskey.io^
-||threads.net^
-||mastodon.social^
-||mstdn.jp^
-||mixi.io^
+! 漫画、イラスト投稿サイト
 ||pixiv.net^
 @@||accounts.pixiv.net^
 @@||accounts.pixiv.net/login?^
@@ -44,6 +47,15 @@
 ||buhitter.com/^
 ||twicomi.com^
 ||twiman.net^
+
+! SNS
+||misskey.io^
+||threads.net^
+||mastodon.social^
+||mstdn.jp^
+||mixi.io^
+||x.com
+||twitter.com
 ||bsky.app^
 ||twitter.com^
 
@@ -78,10 +90,7 @@
 ||Reddit.com^
 ||istockphoto.com^
 ||icon.jp^
-! ||x.com
-! ||twitter.com
-! @@||twitter.com/intent/tweet?^
-! ||twitter.com/home$script
+
 !adguardのフィルターをオン・オフしているとAdguardの起動に慣れてくる。フィルタリングを解除しやすくなってるみたい。ツイッターの閲覧制限は別のアプリで行うことにした
 !||twitter.com/home^$document
 
@@ -99,6 +108,8 @@
 ||quora.com^
 
 ! google以外の検索エンジン
+! Ploxyブラウザー、DNSブロックをすり抜けるブラウザー
+||yahoo.co.jp^
 ||baidu.com^
 @@||map.baidu.com^
 ||dackdackgo.com^
@@ -116,8 +127,6 @@
 ||qwant.com^
 ||lite.qwant.com^
 ||ecosia.org^
-
 ||Dogpile.com^
-! DNSブロックをすり抜けるもの
 ||startpage.com^
 ||swisscows.com^
