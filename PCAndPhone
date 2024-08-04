@@ -60,7 +60,7 @@
 ||mastodon.social^
 ||mstdn.jp^
 ||mixi.io^
-! ||x.com^
+||x.com^
 ||twitter.com^
 ! adguardのフィルターをオン・オフしているとAdguardの起動に慣れてくる。フィルタリングを解除しやすくなってるみたい。ツイッターの閲覧制限は別のアプリで行うことにした
 ||bsky.app^
