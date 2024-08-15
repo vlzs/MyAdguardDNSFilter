@@ -54,7 +54,6 @@
 @@||accounts.pixiv.net/login?^
 ||seiga.nicovideo.jp^
 ||tiktok.com^
-||nitter*
 ||nitter.com^
 ||nitter.domain.glass^
 ||nitter.fdn.fr^
@@ -82,12 +81,12 @@
 ||mixi.io^
 ||x.com^
 ||twitter.com^
-! adguardのフィルターをオン・オフしているとAdguardの起動に慣れてくる。フィルタリングを解除しやすくなってるみたい。ツイッターの閲覧制限は別のアプリで行うことにした
 ||bsky.app^
 ||fedibird.com^
 ||mstdn.plus^
 ||mstdn.io^
 ! 自分にとってSNSはメリット（情報を受け取って何かをやる）よりも、デメリットのほうが大きい。時間を消費したり情報で疲労したり、ドーパミンを出し切ったりする
+! adguardのフィルターをオン・オフしているとAdguardの起動に慣れてくる。フィルタリングを解除しやすくなってるみたい。ツイッターの閲覧制限は別のアプリで行うことにした
 
 ! 苦手な情報（言葉選びが苦手で影響を受けたくなかったり、見ていて時間が失われたもの、都市伝説や陰謀論を扱うもの）
 ||togetter.com^
@@ -100,8 +99,6 @@
 ||alphapolis.co.jp^
 ||impress.co.jp^
 ||yahoo.co.jp^
-@@||search.yahoo.co.jp/realtime^$important
-@@||yahoo.co.jp/realtime^$important
 ||chiebukuro.yahoo.co.jp^
 ||wired.com^
 ||wired.jp^
@@ -144,7 +141,6 @@
 ! Ploxyブラウザー、DNSブロックをすり抜けるブラウザー
 ||yahoo.co.jp^
 ||baidu.com^
-@@||map.baidu.com^
 ||dackdackgo.com^
 ||bing.com^
 ||ecosia.org^
