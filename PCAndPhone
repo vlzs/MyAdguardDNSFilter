@@ -142,8 +142,9 @@
 ||baidu.com^
 ||dackdackgo.com^
 ||bing.com^
-! ||yahoo.co.jp^
-!　ツイートはツイッターからみるよりyahooリアルタイム検索からみるほうがまし、フィードがない点で
+||yahoo.co.jp^
+@@||search.yahoo.co.jp^
+!　ツイートはツイッターからみるよりyahooリアルタイム検索からみるほうがまし、フィードがない点で。ツイッターホーム画面のおすすめ欄は疲れる
 ||ecosia.org^
 ||searx.thegpm.org^
 ||yandex.com^
