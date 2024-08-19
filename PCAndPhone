@@ -80,7 +80,7 @@
 ||mastodon.social^
 ||mstdn.jp^
 ||mixi.io^
-||x.com^
+! ||x.com^ 撤退作業
 ||twitter.com^
 ||bsky.app^
 ||fedibird.com^
@@ -162,3 +162,5 @@
 ||startpage.com^
 ||swisscows.com^
 ||emeraldeyex.dev^
+
+
