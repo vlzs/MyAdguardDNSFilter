@@ -99,8 +99,6 @@
 ||kakuyomu.jp^
 ||alphapolis.co.jp^
 ||impress.co.jp^
-! ||yahoo.co.jp^
-!　ツイッターからみるよりまし、フィードがない点で。
 ||chiebukuro.yahoo.co.jp^
 ||wired.com^
 ||wired.jp^
@@ -141,10 +139,11 @@
 
 ! google以外の検索エンジン
 ! Ploxyブラウザー、DNSブロックをすり抜けるブラウザー
-||yahoo.co.jp^
 ||baidu.com^
 ||dackdackgo.com^
 ||bing.com^
+! ||yahoo.co.jp^
+!　ツイートはツイッターからみるよりyahooリアルタイム検索からみるほうがまし、フィードがない点で
 ||ecosia.org^
 ||searx.thegpm.org^
 ||yandex.com^
