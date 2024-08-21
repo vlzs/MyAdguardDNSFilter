@@ -80,7 +80,9 @@
 ||mastodon.social^
 ||mstdn.jp^
 ||mixi.io^
-! ||x.com^ 撤退作業
+||x.com^
+! 9月末に作業報告をする（それまでブロックしたままを保つ）
+! 撤退作業（アーカイブのダウンロード）する
 ||twitter.com^
 ||bsky.app^
 ||fedibird.com^
