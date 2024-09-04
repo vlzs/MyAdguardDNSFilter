@@ -145,7 +145,8 @@
 ||dackdackgo.com^
 ||bing.com^
 ||yahoo.co.jp^
-@@||search.yahoo.co.jp^
+! @@||search.yahoo.co.jp^
+! ツイート閲覧に使っていた。動画が見れずコンテンツのフィルタリングが入っていると思ってた。そんなことなかった
 !　ツイートはツイッターからみるよりyahooリアルタイム検索からみるほうがまし、フィードがない点で。ツイッターホーム画面のおすすめ欄は疲れる
 ||ecosia.org^
 ||searx.thegpm.org^
