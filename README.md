@@ -19,6 +19,9 @@ DNS Filter List「PCAndPhone」のURLはGithub内のファイルをたどると�
 # How to use
 
 画像赤丸の部分からRawデータを開き、URLをコピーします
+
 ![image](https://github.com/user-attachments/assets/a61e2b0c-1d04-4fed-97b9-2785bb1baa35)
+
 uBlocklistのlistに追加します。uBlocklistのOptions画面を開き、Add subscriptionから追加します
+
 ![image](https://github.com/user-attachments/assets/55634059-3dba-453d-ae27-88aaf8a5f3ee)
