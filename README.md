@@ -13,13 +13,12 @@ DNS Filter List「PCAndPhone」のURLはGithub内のファイルをたどると�
 ![image](https://github.com/kozv/MyAdguardDNSFilter/assets/86694578/c91be6b1-38c2-4c6d-a5c1-bb5eb1d28b16)
 ![image](https://github.com/kozv/MyAdguardDNSFilter/assets/86694578/24cfdbcd-0567-475b-a3fc-b1cd345f5b42)
 
-# 検索結果からも非表示にする
+# uBlacklistMyFilter
+PCandPhone(Adguard用のDNSフィルター)を[uBlacklist](https://chrome.google.com/webstore/detail/pncfbmialoiaghdehhbnbhkkgmjanfhe)で使えるようにしたものです
+PCandPhoneでブロックしているサイト群を検索結果から消します
 
-ブロックしたサイト群を検索結果から消すには、Googleの拡張機能[uBlacklist](https://chrome.google.com/webstore/detail/pncfbmialoiaghdehhbnbhkkgmjanfhe)を使います。uBlockListの非表示するサイトのリストに、ブロックしたサイト群を追加します。Adguardとは記述のルールが異なるため、ファイル内のテキストをコピー＆ペーストをしても読み取りません。ChatGPTで成形します。
-
-```
-「||」をすべて「*://*.」に置き換えてください。
-「^」をすべて「/*」に置き換えてください。
-!で始まる行を削除してください。
-```
-![image](https://github.com/kozv/MyAdguardDNSFilter/assets/86694578/b18bd1b5-a318-475e-90ff-d5e78f93a888)
+# How to use
+画像赤丸の部分からRawデータを開き、URLをコピーします
+![image](https://github.com/user-attachments/assets/a61e2b0c-1d04-4fed-97b9-2785bb1baa35)
+uBlocklistのlistに追加します。uBlocklistのOptions画面を開き、Add subscriptionから追加します
+![image](https://github.com/user-attachments/assets/55634059-3dba-453d-ae27-88aaf8a5f3ee)
