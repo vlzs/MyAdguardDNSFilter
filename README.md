@@ -1,6 +1,3 @@
-# MyAdguardDNSFilter
-My AdGuard DNS Filter List
-
 # How to Use
 
 DNS Filter List「PCAndPhone」をAdguardに読み込みます
@@ -8,7 +5,7 @@ DNS Filter List「PCAndPhone」をAdguardに読み込みます
 ![image](https://github.com/kozv/MyAdguardDNSFilter/assets/86694578/72f8f15f-c581-43d5-8f79-b7ef69e27752)
 ![image](https://github.com/kozv/MyAdguardDNSFilter/assets/86694578/b573b315-01d2-4bd5-adc3-d85be23a374a)
 
-# How To Get Raw List URL !
+# How To Get Raw List URL
 
 DNS Filter List「PCAndPhone」のURLはGithub内のファイルをたどると見つかります
 
@@ -20,6 +17,7 @@ DNS Filter List「PCAndPhone」のURLはGithub内のファイルをたどると�
 このファイルはPCandPhoneでブロックしているサイト群を検索結果から消すために使います。Adguardでなく、ブラウザの拡張機能・[uBlacklist](https://chrome.google.com/webstore/detail/pncfbmialoiaghdehhbnbhkkgmjanfhe)で使います。このファイルはPCandPhone(Adguard用のDNSフィルター)をuBlacklist用に整形したものです。
 
 # How to use
+
 画像赤丸の部分からRawデータを開き、URLをコピーします
 ![image](https://github.com/user-attachments/assets/a61e2b0c-1d04-4fed-97b9-2785bb1baa35)
 uBlocklistのlistに追加します。uBlocklistのOptions画面を開き、Add subscriptionから追加します
