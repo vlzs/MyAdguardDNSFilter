@@ -2,6 +2,11 @@
 *://*.eow.alc.co.jp/*
 *://*.ejje.weblio.jp/*
 *://*.dictionary.goo.ne.jp/*
+*://*.ei-navi.jp/*
+*://*.engoo.jp/*
+*://*.ja.wiktionary.org/*
+*://*.kimini.online/*
+*://*.tentan.jp/*
 /* ↑DNSブロック(adguard)はしていないが検索結果には載せないもの */
 
 *://*.wikipedia.org/*
