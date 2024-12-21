@@ -1,5 +1,6 @@
 ! Title: PC
 ||twitter.com^
+||nicovideo.jp^
 ||x.com^
 ! TwitterはPCで使う（→日曜日の午後5~6時だけPCで（Microsoft Edgeで）Twitterを使えるようにする）
 ! PCのほうが刺激を小さくするツールを使える（Control panel for Twitterなど）けど無理だった。PCからツイッターを見れる状態だと、いつでも開いてしまうようになった
