@@ -9,17 +9,29 @@
 ||steamcommunity.com^
 ||steampowered.com^
 
+
 ||discord.com^
 ! Discordは必要になるまでアクセスしない。例えばAdofaiのmodを調べるときとかには使う。起動しにくくする
 
+! 一ヶ月ぐらいアクセスしなくてもどうということはないはず、また1ヶ月後にアクセスできるのだから
 ! 音楽ソフトの公式サイトやフォーラム
 ||forum.vital.audio^ 
+||presonus.com^
+||web.archive.org^
+||steinberg.help^
+||soundonsound.com^
+||note.com^
+||xferrecords.com^
+||thegearpage.net^
+||equipboard.com^
+! お役立ち情報もある。でも読むだけであまり使ったことがない。一ヶ月ぐらいアクセスできなくても大丈夫なはず
+
 
 ! Repaer関連のサイト
-!||reaper.fm^
-!||askjf.com
+||reaper.fm^
+||askjf.com
 ||1014.org
-!||forum.cockos.com^
+||forum.cockos.com^
 ||extremraym.com^
 ||mespotin.uber.space^
 
@@ -107,6 +119,7 @@
 ! セール情報
 ||audiopluginguy.com^
 ||audioplugin.deals^
+||makou.com^
 
 ! 漫画、イラスト投稿サイト
 ||pixiv.net^
@@ -188,7 +201,6 @@
 ||icon.jp^
 ||newspicks.com^
 
-
 ! 車のニュース
 ||kuruma-news.jp^
 ||response.jp^ 
@@ -201,6 +213,9 @@
 ||autoc-one.jp^
 ||motor-fan.jp^
 ||car-repo.jp
+
+! ゲームの新製品ニュース速報　これを見るよりも、実際に遊ぶほうがまだまし。見ても仕方がない
+||famitsu.com^
 
 ! ライフハックが増えるもの。知ってるけど使ってない道具が多いので、新しい方法への出会いを保留したい
 ||itmedia.co.jp^
