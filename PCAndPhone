@@ -9,7 +9,6 @@
 ||steamcommunity.com^
 ||steampowered.com^
 
-
 ||discord.com^
 ! Discordは必要になるまでアクセスしない。例えばAdofaiのmodを調べるときとかには使う。起動しにくくする
 
@@ -18,7 +17,7 @@
 ||forum.vital.audio^ 
 ||presonus.com^
 ||web.archive.org^
-||mangadex.org^
+!||mangadex.org^
 ||steinberg.help^
 ||soundonsound.com^
 ||note.com^
@@ -156,7 +155,7 @@
 ||mastodon.social^
 ||mstdn.jp^
 ||mixi.io^
-!||x.com^
+||x.com^
 ! 9月末に作業報告をする（それまでブロックしたままを保つ）
 ! 撤退作業（アーカイブのダウンロード）する
 ||twitter.com^
