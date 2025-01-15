@@ -136,6 +136,7 @@
 ||nitter.net^
 ! AdguardのDNSFilterでは表現を省略できても、DNSFilterの中身を整形して使うuBlacklistでは個々に分かれていたほうが助かるかも
 ||pawoo.net^
+||comic-medu.com^
 ||pinterest.com^
 ||instagram.com^
 ||https://twitter.com/search?^
