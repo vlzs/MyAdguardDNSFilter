@@ -249,7 +249,7 @@
 ||search.brave.com^
 ||metager.org^
 ||cybersyndrome.net^
-||croxyproxy.com^
+!||croxyproxy.com^
 ||proxysite.com^
 ||plainproxies.com^
 ||proxyium.com^
@@ -257,7 +257,8 @@
 ||lite.qwant.com^
 ||ecosia.org^
 ||Dogpile.com^
-||startpage.com^
+!||startpage.com^
+!||azureserv.com^
 ||swisscows.com^
 ||emeraldeyex.dev^
 ||4everproxy.com^
