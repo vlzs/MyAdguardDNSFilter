@@ -4,9 +4,9 @@
 ! Contact: umineco112a@gmail.com
 
 ||youtube.com^
-||netoff.co.jp
-||amazon.co.jp^
-||amazon.com^
+!||netoff.co.jp
+!||amazon.co.jp^
+!||amazon.com^
 ||steamcommunity.com^
 ||steampowered.com^
 !||nicovideo.jp
@@ -248,7 +248,7 @@
 ||search.brave.com^
 ||metager.org^
 ||cybersyndrome.net^
-!||croxyproxy.com^
+||croxyproxy.com^
 ||proxysite.com^
 ||plainproxies.com^
 ||proxyium.com^
@@ -256,7 +256,7 @@
 ||lite.qwant.com^
 ||ecosia.org^
 ||Dogpile.com^
-!||startpage.com^
+||startpage.com^
 ||swisscows.com^
 ||emeraldeyex.dev^
 ||4everproxy.com^
