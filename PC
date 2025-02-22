@@ -1,7 +1,7 @@
 ! Title: PC
 ||nicovideo.jp^
-!||x.com^
-!||twitter. com^
+||x.com^
+||twitter. com^
 ||abema.tv
 ||youtube.com
 ! TwitterはPCで使う（→日曜日の午後5~6時だけPCで（Microsoft Edgeで）Twitterを使えるようにする）
