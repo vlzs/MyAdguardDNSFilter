@@ -30,20 +30,19 @@
 ||equipboard.com^
 ! お役立ち情報もある。でも読むだけであまり使ったことがない。一ヶ月ぐらいアクセスできなくても大丈夫なはず
 
+||wikipedia.org^
+! 試しにブロックするが、参考文献にあたって読むやり方ができなくなるそう←やったことはない
 
 ! Repaer関連のサイト
 ||reaper.fm^
 ||askjf.com
 ||1014.org
-||forum.cockos.com^
 ||extremraym.com^
 ||mespotin.uber.space^
 
-||wikipedia.org^
-! 試しにブロックするが、参考文献にあたって読むやり方ができなくなるそう。やったことはない
+
 
 ! DawはStudio oneにする
-! 日本語入力をしたあと全角のままだとショートカットを入力できない、についてフォーラムに投稿するために一時的に解除
 ||answers.presonus.com^
 ||gearspace.com^
 ||image-line.com^
@@ -53,7 +52,7 @@
 ||audiosex.pro^
 
 
-! 無料試し読み、本のサブスクリプションサービス、Web漫画連載サイトも
+! 無料試し読み、本のサブスクリプションサービス、Web漫画連載サイト
 ||bookwalker.jp^
 ||booklive.jp^
 ||mechacomic.jp^
@@ -86,6 +85,7 @@
 ||shonenjump.com^
 
 ! ミニゲーム
+! 体調を悪くしそうなときにゲームをやってやりすごす、は機能する。でもゲームをいつでも遊べる状態にしていると作業できるときにも遊んでしまう。利益も兼ねた娯楽をやろう。耳コピとかにしよう。耳コピが娯楽に感じられるぐらい簡単になったらいいなあ。耳コピも罪悪感は感じるのでゲームと同様に機能するはず
 ||rekari.namagame.coe.nicovideo.jp^
 ||suika.gg^
 ||suikagame.io^
@@ -117,9 +117,9 @@
 ||drift.io^
 ||qniapp.github.io^
 ||freegame-mugen.jp^
-! 体調を悪くしそうなときにゲームをやる、は機能する。でもゲームをいつでも遊べる状態にしていると作業できるときにも遊んでしまう。利益も兼ねた娯楽をやろう。耳コピとかにしよう。耳コピが娯楽に感じられるぐらい簡単になったらいいなあ。耳コピも罪悪感は感じるので機能するはず
+||pomu.com
 
-! 日本語でDTMセール情報を発信されている方
+! DTMセール情報
 ||computermusic.jp^
 ||synthsonic.net^
 ||dtmer.info^
@@ -131,7 +131,6 @@
 ||azu-soundworks.net^
 ||chilloutwithbeats.com^
 ||guitar-type.com^
-! セール情報
 ||audiopluginguy.com^
 ||audioplugin.deals^
 ||makou.com^
@@ -142,7 +141,7 @@
 @@||accounts.pixiv.net/login?^
 ||seiga.nicovideo.jp^
 ||manga.nicovideo.jp^
-!春画がなくなっても暗示的な画がある
+!春画がなくなっても暗示的な絵はある
 ||tiktok.com^
 ||nitter.com^
 ||nitter.domain.glass^
@@ -153,15 +152,15 @@
 ||pawoo.net^
 ||pinterest.com^
 ||instagram.com^
-||https://twitter.com/search?^
-||https://twitter.com/explore^
-||twoucan.com/^
-||buhitter.com/^
+||twoucan.com^
+||buhitter.com^
 ||twicomi.com^
 ||twiman.net^
-||bilibili.com^
 ||shonenmagazine.com^
-!　コンテンツは好きで見たいんだけれど見れない。暗示的な広告があったり、そういうのげ検索結果に混ざるのであまり見れない
+!動画サイト
+!bilibiliのコンテンツは好きで見たいんだけれど見れない。暗示的な広告があったり、そういうのげ検索結果に混ざるのであまり見れない
+||bilibili.com^
+||dailymotion.com
 
 !動画サイト
 ||9gag.com^
@@ -170,23 +169,21 @@
 ||matomame.jp^
 
 ! SNS
+! 自分にとってSNSはメリット（情報を受け取って何かをやる）よりも、デメリットのほうが大きい。時間を消費したり情報で疲労したり、ドーパミンを出し切ったりする
+! adguardアプリのフィルターをオン・オフしているとAdguardの起動に慣れてくる。フィルタリングを解除しやすくなってるみたい。ツイッターの閲覧制限を解除するときはフィルターの中身を操作する、Adguardのアプリは触らない
 ||misskey.io^
 ||threads.net^
 ||mastodon.social^
 ||mstdn.jp^
 ||mixi.io^
-! 9月末に作業報告をする（それまでブロックしたままを保つ）
-! 撤退作業（アーカイブのダウンロード）する
 ||twitter.com^
 ||bsky.app^
 ||fedibird.com^
 ||mstdn.plus^
 ||mstdn.io^
 ||twfan.net^
-! 自分にとってSNSはメリット（情報を受け取って何かをやる）よりも、デメリットのほうが大きい。時間を消費したり情報で疲労したり、ドーパミンを出し切ったりする
-! adguardのフィルターをオン・オフしているとAdguardの起動に慣れてくる。フィルタリングを解除しやすくなってるみたい。ツイッターの閲覧制限は別のアプリで行うことにした
 
-! 苦手な情報（言葉選びが苦手で影響を受けたくなかったり、見ていて時間が失われたもの、都市伝説や陰謀論を扱うもの）
+! ネットニュース、苦手な情報（言葉選びが苦手で影響を受けたくなかったり、見ていて時間が失われたもの、都市伝説や陰謀論を扱うもの）
 ||togetter.com^
 ||posfie.com^
 ||karapaia.com^
@@ -236,6 +233,8 @@
 
 ! ゲームの新製品ニュース速報　これを見るよりも、実際に遊ぶほうがまだまし。見ても仕方がない
 ||famitsu.com^
+||4gamer.net^
+||gamespark.jp
 
 ! ライフハックが増えるもの。知ってるけど使ってない道具が多いので、新しい方法への出会いを保留したい
 ||itmedia.co.jp^
@@ -248,8 +247,8 @@
 ||bing.com^
 ||yahoo.co.jp^
 ! @@||search.yahoo.co.jp^
-! ツイート閲覧に使っていた。動画が見れずコンテンツのフィルタリングが入っていると思ってた。そんなことなかった
-!　ツイートはツイッターからみるよりyahooリアルタイム検索からみるほうがまし、フィードがない点で。ツイッターホーム画面のおすすめ欄は疲れる
+! ツイート閲覧に使っていた。Yahooのリアルタイム検索なら動画を見れずコンテンツのフィルタリングが入っていると思ってた。そんなことなかった。ので使うをやめた
+! ツイートはツイッターからみるよりyahooリアルタイム検索からみるほうがまし、フィードがない点で。ツイッターホーム画面のおすすめ欄は疲れるから、それなしに見れるyahooリアルタイム検索の環境は良い
 ||ecosia.org^
 ||searx.thegpm.org^
 ||yandex.com^
