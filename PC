@@ -1,8 +1,5 @@
 ! Title: PC
-||www.nicovideo.jp^
-||www.sp.nicovideo.jp^
-@@||live.nicovideo.jp
-
+||nicovideo.jp
 ||x.com^
 ||twitter. com^
 ||abema.tv
