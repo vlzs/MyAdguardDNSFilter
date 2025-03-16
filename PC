@@ -1,9 +1,9 @@
 ! Title: PC
-||nicovideo.jp
-||x.com^
+!||nicovideo.jp
+!||x.com^
 ||twitter. com^
-||abema.tv
-||youtube.com
+!||abema.tv
+!||youtube.com
 ! TwitterはPCで使う（→日曜日の午後5~6時だけPCで（Microsoft Edgeで）Twitterを使えるようにする）
 ! PCのほうが刺激を小さくするツールを使える（Control panel for Twitterなど）けど無理だった。PCからツイッターを見れる状態だと、いつでも開いてしまうようになった
 ! PCでツイッターを見れる状態だと作業にならない。スマホのほうがいい。スマホなら一階に置いて距離を離せる
