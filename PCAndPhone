@@ -249,8 +249,10 @@
 
 ! google以外の検索エンジン
 ! Ploxyブラウザー、DNSブロックをすり抜けるブラウザー
-||baidu.com^
+||http://kagi.com/
+!↑使いたいがペアレンタルコントロールがAdguardからロックされない。あとでQustodioから確認して
 ||dackdackgo.com^
+||baidu.com^
 ||bing.com^
 ||yahoo.co.jp^
 ! @@||search.yahoo.co.jp^
