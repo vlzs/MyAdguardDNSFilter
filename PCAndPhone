@@ -3,49 +3,32 @@
 ! Maintainer: kozv
 ! Contact: umineco112a@gmail.com
 
-
+!買い物
 ||netoff.co.jp
 ||amazon.co.jp^
 ||amazon.com^
-! 泡だて器買う
 
 ||addons.mozilla.org^
 @@||developer.mozilla.org^
 
-||steamcommunity.com^
-||steampowered.com^
-
-||discord.com^
-! Discordは必要になるまでアクセスしない。例えばAdofaiのmodを調べるときとかには使う。起動しにくくする
-
-! 一ヶ月ぐらいアクセスしなくてもどうということはないはず、また1ヶ月後にアクセスできるのだから
-! 音楽ソフトの公式サイトやフォーラム
-!||forum.vital.audio^ 
-!||presonus.com^
-!||feedback-software.presonus.com
-||web.archive.org^
-||mangadex.org^
 !||steinberg.help^
-!||soundonsound.com^
+
+! 音楽ソフトの公式サイトやフォーラム
+||forum.vital.audio^ 
+||presonus.com^
+||feedback-software.presonus.com
+||web.archive.org^
+||soundonsound.com^
 ||note.com^
-!これやってみる タイトルは「男にはわからない」だけど、男が男の加害性を知るためには、インターネットで女のふりをすれば1週間で嫌というほどわかるよ、という話。読んでほしい。 https://note.com/doskoi_plissken/n/nda86cc61d00f 
 ||xferrecords.com^
 ||thegearpage.net^
 ||equipboard.com^
 ! お役立ち情報もある。でも読むだけであまり使ったことがない。一ヶ月ぐらいアクセスできなくても大丈夫なはず
 
 
+||apps.microsoft.com
 ||wikipedia.org^
 ! 試しにブロックするが、参考文献にあたって読むやり方ができなくなるそう←やったことはない
-
-
-! Repaer関連のサイト
-||reaper.fm^
-||askjf.com
-||1014.org
-||extremraym.com^
-||mespotin.uber.space^
-
 
 ! DawはStudio oneにする
 ||answers.presonus.com^
@@ -56,7 +39,12 @@
 ||forums.presonus.com^
 ||audiosex.pro^
 
-||apps.microsoft.com
+! Repaer関連のサイト
+||reaper.fm^
+||askjf.com
+||1014.org
+||extremraym.com^
+||mespotin.uber.space^
 
 ! 無料試し読み、本のサブスクリプションサービス、Web漫画連載サイト
 ||bookwalker.jp^
@@ -90,8 +78,11 @@
 ||shonenjumpplus.com^
 ||shonenjump.com^
 
+! ゲーム
+||steamcommunity.com^
+||steampowered.com^
+
 ! ミニゲーム
-! 体調を悪くしそうなときにゲームをやってやりすごす、は機能する。でもゲームをいつでも遊べる状態にしていると作業できるときにも遊んでしまう。利益も兼ねた娯楽をやろう。耳コピとかにしよう。耳コピが娯楽に感じられるぐらい簡単になったらいいなあ。耳コピも罪悪感は感じるのでゲームと同様に機能するはず
 ||rekari.namagame.coe.nicovideo.jp^
 ||suika.gg^
 ||suikagame.io^
@@ -139,7 +130,7 @@
 ||guitar-type.com^
 ||audiopluginguy.com^
 ||audioplugin.deals^
-!||makou.com^
+||makou.com^
 
 ! 漫画、イラスト投稿サイト
 ||pixiv.net^
@@ -147,14 +138,12 @@
 @@||accounts.pixiv.net/login?^
 ||seiga.nicovideo.jp^
 ||manga.nicovideo.jp^
-!春画がなくなっても暗示的な絵はある
 ||tiktok.com^
 ||nitter.com^
 ||nitter.domain.glass^
 ||nitter.fdn.fr^
 ||nitter.it^
 ||nitter.net^
-! AdguardのDNSFilterでは表現を省略できても、DNSFilterの中身を整形して使うuBlacklistでは個々に分かれていたほうが助かるかも
 ||pawoo.net^
 ||pinterest.com^
 ||instagram.com^
@@ -163,9 +152,9 @@
 ||twicomi.com^
 ||twiman.net^
 ||shonenmagazine.com^
+||mangadex.org^
 
-!動画サイト
-!bilibiliのコンテンツは好きで見たいんだけれど見れない。暗示的な広告があったり、そういうのげ検索結果に混ざるのであまり見れない
+!動画サイト (ニコニコ動画はPCAndPhoneでなく、PC, Phoneで個別に制限してる
 ||bilibili.com^
 ||dailymotion.com
 ||9gag.com^
@@ -174,8 +163,6 @@
 ||matomame.jp^
 
 ! SNS
-! 自分にとってSNSはメリット（情報を受け取って何かをやる）よりも、デメリットのほうが大きい。時間を消費したり情報で疲労したり、ドーパミンを出し切ったりする
-! adguardアプリのフィルターをオン・オフしているとAdguardの起動に慣れてくる。フィルタリングを解除しやすくなってるみたい。ツイッターの閲覧制限を解除するときはフィルターの中身を操作する、Adguardのアプリは触らない
 ||misskey.io^
 ||threads.net^
 ||mastodon.social^
@@ -188,6 +175,7 @@
 ||mstdn.io^
 ||twfan.net^
 ||facebook.com^
+||discord.com^
 
 ! ネットニュース、苦手な情報（言葉選びが苦手で影響を受けたくなかったり、見ていて時間が失われたもの、都市伝説や陰謀論を扱うもの）
 ||togetter.com^
@@ -246,21 +234,19 @@
 ||4gamer.net^
 ||gamespark.jp
 
-! ライフハックが増えるもの。知ってるけど使ってない道具が多いので、新しい方法への出会いを保留したい
+! ライフハックが増えるもの。知ってるけど使ってない道具が多い。新しい方法への出会いを保留したい
 ||itmedia.co.jp^
 ||quora.com^
 
 ! google以外の検索エンジン
 ! Ploxyブラウザー、DNSブロックをすり抜けるブラウザー
+! これも併用してる→ https://github.com/hagezi/dns-blocklists#bypass
 ||http://kagi.com/
-!↑使いたいがペアレンタルコントロールがAdguardからロックされない。あとでQustodioから確認して
 ||dackdackgo.com^
 ||baidu.com^
 ||bing.com^
 ||yahoo.co.jp^
-! @@||search.yahoo.co.jp^
-! ツイート閲覧に使っていた。Yahooのリアルタイム検索なら動画を見れずコンテンツのフィルタリングが入っていると思ってた。そんなことなかった。ので使うをやめた
-! ツイートはツイッターからみるよりyahooリアルタイム検索からみるほうがまし、フィードがない点で。ツイッターホーム画面のおすすめ欄は疲れるから、それなしに見れるyahooリアルタイム検索の環境は良い
+||search.yahoo.co.jp^
 ||ecosia.org^
 ||searx.thegpm.org^
 ||yandex.com^
