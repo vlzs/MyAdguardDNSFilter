@@ -12,6 +12,7 @@
 @@||developer.mozilla.org^
 ||chromewebstore.google.com^
 
+!||kagi.com
 !||steinberg.help^
 
 ! 音楽ソフトの公式サイトやフォーラム
@@ -244,7 +245,6 @@
 ! google以外の検索エンジン
 ! Ploxyブラウザー、DNSブロックをすり抜けるブラウザー
 ! これも併用してる→ https://github.com/hagezi/dns-blocklists#bypass
-||http://kagi.com/
 ||dackdackgo.com^
 ||baidu.com^
 ||bing.com^
