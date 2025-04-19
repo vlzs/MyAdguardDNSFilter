@@ -12,12 +12,12 @@
 @@||developer.mozilla.org^
 ||chromewebstore.google.com^
 
-!||kagi.com
+||kagi.com
 !||steinberg.help^
 !||dackdackgo.com^
 
 ! 音楽ソフトの公式サイトやフォーラム
-||native-instruments.com^
+!||native-instruments.com^
 ||forum.vital.audio^ 
 ||presonus.com^
 ||feedback-software.presonus.com
@@ -36,7 +36,7 @@
 
 ! DawはStudio oneにする
 ||answers.presonus.com^
-||gearspace.com^
+!||gearspace.com^
 ||image-line.com^
 ||bitwig.com^
 ||kvraudio.com^
