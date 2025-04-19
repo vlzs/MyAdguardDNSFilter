@@ -14,6 +14,7 @@
 
 !||kagi.com
 !||steinberg.help^
+!||dackdackgo.com^
 
 ! 音楽ソフトの公式サイトやフォーラム
 ||native-instruments.com^
@@ -260,8 +261,7 @@
 
 ! google以外の検索エンジン
 ! Ploxyブラウザー、DNSブロックをすり抜けるブラウザー
-! これも併用してる→ https://github.com/hagezi/dns-blocklists#bypass
-||dackdackgo.com^
+! こちらも併用してます→ https://github.com/hagezi/dns-blocklists#bypass
 ||baidu.com^
 ||bing.com^
 ||yahoo.co.jp^
