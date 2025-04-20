@@ -8,16 +8,10 @@
 ||amazon.co.jp^
 ||amazon.com^
 
-||addons.mozilla.org^
-@@||developer.mozilla.org^
-||chromewebstore.google.com^
-
-||kagi.com
 !||steinberg.help^
-!||dackdackgo.com^
 
 ! 音楽ソフトの公式サイトやフォーラム
-!||native-instruments.com^
+||native-instruments.com^
 ||forum.vital.audio^ 
 ||presonus.com^
 ||feedback-software.presonus.com
@@ -29,14 +23,13 @@
 ||equipboard.com^
 ! お役立ち情報もある。でも読むだけであまり使ったことがない。一ヶ月ぐらいアクセスできなくても大丈夫なはず
 
-
 ||apps.microsoft.com
 ||wikipedia.org^
 ! 試しにブロックするが、参考文献にあたって読むやり方ができなくなるそう←やったことはない
 
 ! DawはStudio oneにする
 ||answers.presonus.com^
-!||gearspace.com^
+||gearspace.com^
 ||image-line.com^
 ||bitwig.com^
 ||kvraudio.com^
@@ -288,3 +281,9 @@
 ||blockaway.net^
 ||hide.me^
 ||coproxy.io^
+||duckduckgo.com^
+@@||safe.duckduckgo.com^
+||kagi.com
+||addons.mozilla.org^
+@@||developer.mozilla.org^
+||chromewebstore.google.com^
