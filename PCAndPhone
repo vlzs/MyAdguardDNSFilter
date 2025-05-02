@@ -291,6 +291,6 @@
 ||duckduckgo.com^
 @@||safe.duckduckgo.com^
 ||kagi.com
-||addons.mozilla.org^
+!||addons.mozilla.org^
 @@||developer.mozilla.org^
-||chromewebstore.google.com^
+!||chromewebstore.google.com^
