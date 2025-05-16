@@ -13,8 +13,8 @@
 ! 音楽ソフトの公式サイトやフォーラム
 ||native-instruments.com^
 ||forum.vital.audio^ 
-||presonus.com^
-||feedback-software.presonus.com
+!||presonus.com^
+!||feedback-software.presonus.com
 ||web.archive.org^
 ||soundonsound.com^
 ||note.com^
@@ -28,7 +28,7 @@
 ! 試しにブロックするが、参考文献にあたって読むやり方ができなくなるそう←やったことはない
 
 ! DawはStudio oneにする
-||answers.presonus.com^
+!||answers.presonus.com^
 ||gearspace.com^
 ||image-line.com^
 ||bitwig.com^
@@ -194,7 +194,7 @@
 ||comic-days.com^
 ||kakuyomu.jp^
 ||syosetu.org^
-||syosetu.com^
+!||syosetu.com^
 ||alphapolis.co.jp^
 ||impress.co.jp^
 ||yaruyomi.com^
