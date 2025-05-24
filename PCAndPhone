@@ -179,12 +179,12 @@
 ||discord.com^
 ||mastodon-japan.net^
 ||mixi.social^
-||x.com^
+!||x.com^
 ||twitter.com^
 
 
 ||youtube.com^
-!||abema.tv^
+||abema.tv^
 
 ! ネットニュース、苦手な情報（言葉選びが苦手で影響を受けたくなかったり、見ていて時間が失われたもの、都市伝説や陰謀論を扱うもの）
 ||togetter.com^
