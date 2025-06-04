@@ -8,9 +8,6 @@
 ||amazon.co.jp^
 ||amazon.com^
 
-||youtube.com^
-||abema.tv^
-
 !||steinberg.help^
 
 ! 音楽ソフトの公式サイトやフォーラム
@@ -80,7 +77,8 @@
 ||gaugau.futabanet.jp^
 ||yanmaga.jp^
 ||younganimal.com^
-
+||ganganonline.com^
+||ga.sbcr.jp^
 
 ! ゲーム
 ||steamcommunity.com^
@@ -225,10 +223,12 @@
 ||shonenmagazine.com^
 ||mangadex.org^
 
-!動画サイト (ニコニコ動画はPCAndPhoneでなく、PC, Phoneで個別に制限してる
+!動画サイト
 ||bilibili.com^
 ||dailymotion.com
 ||9gag.com^
+||youtube.com^
+||abema.tv^
 
 ! まとめサイト
 ||matomame.jp^
