@@ -1,5 +1,4 @@
 ! Title: PC
 ||nicovideo.jp^
-!||google.com^
-!||github.com^
+||google.com^
 ||x.com^
