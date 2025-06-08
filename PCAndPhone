@@ -202,9 +202,9 @@
 ||makou.com^
 
 ! 漫画、イラスト投稿サイト
-!||pixiv.net^
-!@@||accounts.pixiv.net^
-!@@||accounts.pixiv.net/login?^
+||pixiv.net^
+@@||accounts.pixiv.net^
+@@||accounts.pixiv.net/login?^
 ||seiga.nicovideo.jp^
 ||manga.nicovideo.jp^
 ||tiktok.com^
