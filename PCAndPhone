@@ -13,6 +13,9 @@
 ||syosetu.org^
 ||syosetu.com^
 
+!||duckduckgo.com^
+!||yandex.com^ 
+
 
 ! 音楽ソフトの公式サイトやフォーラム
 ||native-instruments.com^
@@ -353,7 +356,6 @@
 ||search.yahoo.co.jp^
 ||ecosia.org^
 ||searx.thegpm.org^
-||yandex.com^
 ||search.brave.com^
 ||metager.org^
 ||cybersyndrome.net^
@@ -373,7 +375,6 @@
 ||blockaway.net^
 ||hide.me^
 ||coproxy.io^
-||duckduckgo.com^
 @@||safe.duckduckgo.com^
 ||kagi.com
 ||addons.mozilla.org^
