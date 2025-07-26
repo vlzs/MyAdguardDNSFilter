@@ -4,9 +4,9 @@
 ! Contact: umineco112a@gmail.com
 
 !買い物
-!||netoff.co.jp
-!||amazon.co.jp^
-!||amazon.com^
+||netoff.co.jp
+||amazon.co.jp^
+||amazon.com^
 
 !||steinberg.help^
 
@@ -14,9 +14,7 @@
 !||syosetu.com^
 !ツイッターを見たくなった。より安全なものを見る。一時的に解除する。手元に読む本がないのが問題。なろうでない本の方がもっと安全
 
-!||duckduckgo.com^
-!||yandex.com^ 
-
+!||kagi.com
 
 ! 音楽ソフトの公式サイトやフォーラム
 ||native-instruments.com^
@@ -377,10 +375,12 @@
 ||hide.me^
 ||coproxy.io^
 @@||safe.duckduckgo.com^
-||kagi.com
 ||addons.mozilla.org^
 @@||developer.mozilla.org^
 ||chromewebstore.google.com^
+||duckduckgo.com^
+||yandex.com^ 
+
 
 ! AI生成の検索でDNSブロック外のサイトを見つけてしまうためブロック
 ! AHKスクリプトなど、学習でなく成果物で出されてしまうと学習にならない、リファレンスを読む気にならない
