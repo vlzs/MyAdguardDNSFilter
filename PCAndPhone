@@ -9,9 +9,9 @@
 ||netoff.co.jp
 ||amazon.co.jp^
 ||amazon.com^
+||rakuten.co.jp^
 
-||heymaven.com^
-||app.heymaven.com^
+||note.com^
 
 ||youtube.com^
 
@@ -23,8 +23,6 @@
 ||answers.presonus.com^
 ||feedback-software.presonus.com^
 ||forums.presonus.com^
-||soundonsound.com^
-||note.com^
 ||xferrecords.com^
 ||thegearpage.net^
 ||image-line.com^
@@ -36,10 +34,9 @@
 ||extremraym.com^
 ||mespotin.uber.space^
 
-||apps.microsoft.com
+
 ||wikipedia.org^
 ! 試しにブロックするが、参考文献にあたって読むやり方ができなくなるそう←やったことはない
-
 ! お役立ち情報もある。でも読むだけであまり使ったことがない。一ヶ月ぐらいアクセスできなくても大丈夫なはず
 
 ! 音楽の掲示板サイト
@@ -47,6 +44,7 @@
 ||audiosex.pro^
 ||gearspace.com^
 
+||soundonsound.com^
 ||equipboard.com^
 
 ! WebArchive
@@ -258,6 +256,8 @@
 ||mixi.social^
 ||twitter.com^
 ||x.com^
+||heymaven.com^
+||app.heymaven.com^
 
 ! ネットニュース、苦手な情報（言葉選びが苦手で影響を受けたくなかったり、見ていて時間が失われたもの、都市伝説や陰謀論を扱うもの）
 ||togetter.com^
@@ -302,7 +302,6 @@
 ||diamond.jp^
 ||thesun.co.uk^
 
-
 ! 車のニュース
 ||kuruma-news.jp^
 ||response.jp^ 
@@ -340,8 +339,6 @@
 ||f1oversteer.com^
 ||skysports.com^
 ||motociclismo.pt^
-
-
 
 ! ゲームの新製品ニュース速報　これを見るよりも、実際に遊ぶほうがまだまし。見ても仕方がない
 ||famitsu.com^
@@ -387,6 +384,9 @@
 ||duckduckgo.com^
 ||yandex.com^ 
 ||kagi.com
+
+! ブラウザ拡張機能を配布するサイト(Proxy Serverを使用するものが配布されている。これを使うとDNSブロックを迂回できる。見たくないサイトにアクセスできるようになる。なのでブロック)
+||apps.microsoft.com
 
 ! AI生成の検索でDNSブロック外のサイトを見つけてしまうためブロック
 ! AHKスクリプトなど、学習でなく成果物で出されてしまうと学習にならない、リファレンスを読む気にならない
