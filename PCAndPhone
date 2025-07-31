@@ -384,6 +384,7 @@
 ||duckduckgo.com^
 ||yandex.com^ 
 ||kagi.com
+||silicon.104proxy.com^
 
 ! ブラウザ拡張機能を配布するサイト(Proxy Serverを使用するものが配布されている。これを使うとDNSブロックを迂回できる。見たくないサイトにアクセスできるようになる。なのでブロック)
 ||apps.microsoft.com
@@ -394,6 +395,3 @@
 ||chatgpt.com^
 
 ! 他に使用してるDNSブロッキングルールリスト
-! https://gitlab.com/josephquasar-group/JosephQuasar-project/-/raw/main/Matomesite
-! https://gitlab.com/josephquasar-group/JosephQuasar-project/-/raw/main/MatomeAntenaSite
-! https://gitlab.com/josephquasar-group/JosephQuasar-project/-/raw/main/myNSFWBlocklist
