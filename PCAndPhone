@@ -3,7 +3,7 @@
 ! Maintainer: kozv
 ! Contact: umineco112a@gmail.com
 
-
+! ||mangadex.org^
 
 !買い物
 ||netoff.co.jp
@@ -226,20 +226,14 @@
 ||twoucan.com^
 ||buhitter.com^
 ||twicomi.com^
-
 ||twiman.net^
 ||shonenmagazine.com^
-||mangadex.org^
 
 !動画サイト
 ||bilibili.com^
 ||dailymotion.com
 ||9gag.com^
-!||youtube.com^
 ||abema.tv^
-
-! まとめサイト
-||matomame.jp^
 
 ! SNS
 ||misskey.io^
@@ -388,3 +382,8 @@
 ! AHKスクリプトなど、学習でなく成果物で出されてしまうと学習にならない、リファレンスを読む気にならない
 ||copilot.microsoft.com^
 ||chatgpt.com^
+
+! 他に使用してるDNSブロッキングルールリスト
+! https://gitlab.com/josephquasar-group/JosephQuasar-project/-/raw/main/Matomesite
+! https://gitlab.com/josephquasar-group/JosephQuasar-project/-/raw/main/MatomeAntenaSite
+! https://gitlab.com/josephquasar-group/JosephQuasar-project/-/raw/main/myNSFWBlocklist
