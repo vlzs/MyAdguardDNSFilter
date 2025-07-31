@@ -10,42 +10,47 @@
 ||amazon.co.jp^
 ||amazon.com^
 
-!||steinberg.help^
+||heymaven.com^
+||app.heymaven.com^
 
 ||youtube.com^
 
-! 音楽ソフトの公式サイトやフォーラム
+! DAWやInstrumentの公式サイト
 ||native-instruments.com^
 ||forum.vital.audio^ 
-!||presonus.com^
-!||feedback-software.presonus.com
-||web.archive.org^
+!||steinberg.help^
+||presonus.com^
+||answers.presonus.com^
+||feedback-software.presonus.com^
+||forums.presonus.com^
 ||soundonsound.com^
 ||note.com^
 ||xferrecords.com^
 ||thegearpage.net^
-||equipboard.com^
-! お役立ち情報もある。でも読むだけであまり使ったことがない。一ヶ月ぐらいアクセスできなくても大丈夫なはず
-
-||apps.microsoft.com
-||wikipedia.org^
-! 試しにブロックするが、参考文献にあたって読むやり方ができなくなるそう←やったことはない
-
-! DawはStudio oneにする
-!||answers.presonus.com^
-||gearspace.com^
 ||image-line.com^
 ||bitwig.com^
-||kvraudio.com^
-||forums.presonus.com^
-||audiosex.pro^
-
 ! Repaer関連のサイト
 ||reaper.fm^
 ||askjf.com
 ||1014.org
 ||extremraym.com^
 ||mespotin.uber.space^
+
+||apps.microsoft.com
+||wikipedia.org^
+! 試しにブロックするが、参考文献にあたって読むやり方ができなくなるそう←やったことはない
+
+! お役立ち情報もある。でも読むだけであまり使ったことがない。一ヶ月ぐらいアクセスできなくても大丈夫なはず
+
+! 音楽の掲示板サイト
+||kvraudio.com^
+||audiosex.pro^
+||gearspace.com^
+
+||equipboard.com^
+
+! WebArchive
+||web.archive.org^
 
 ! 無料試し読み、本のサブスクリプションサービス、Web漫画連載サイト
 ||bookwalker.jp^
@@ -332,6 +337,11 @@
 ||racefans.net^
 ||shigasports.com^
 ||topnews.jp^
+||f1oversteer.com^
+||skysports.com^
+||motociclismo.pt^
+
+
 
 ! ゲームの新製品ニュース速報　これを見るよりも、実際に遊ぶほうがまだまし。見ても仕方がない
 ||famitsu.com^
