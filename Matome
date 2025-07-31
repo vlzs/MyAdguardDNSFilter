@@ -91,6 +91,7 @@
 ! Adguard Family DNS Block listにないものなどを追加
 ||hozonv.com^
 
+! 以下のDNSルールは後日消す。Adguard Family Protection Serverでブロックされるようになっ時に消す。
 ||twiigle.com^
 ||twiflix.jp^
 ||pornhub.com^
