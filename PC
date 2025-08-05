@@ -1,5 +1,3 @@
 ! Title: PC
-!||nicovideo.jp^
-||google.com^
 ||x.com^
 ||chromewebstore.google.com^
