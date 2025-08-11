@@ -8,6 +8,7 @@
 ||amazon.co.jp^
 ||amazon.com^
 
+!||syosetu.com^ 
 ||note.com^
 
 ||youtube.com^
@@ -89,7 +90,7 @@ www.community.native-instruments.com^
 ||comic-growl.com^ 
 ||mangadex.org^
 ||syosetu.org^
-||syosetu.com^
+
 
 
 ! ゲーム
@@ -211,7 +212,7 @@ www.community.native-instruments.com^
 ||guitar-type.com^
 ||audiopluginguy.com^
 ||audioplugin.deals^
-!||makou.com^
+||makou.com^
 
 ! 漫画、イラスト投稿サイト
 ||pixiv.net^
