@@ -8,7 +8,6 @@
 ||amazon.co.jp^
 ||amazon.com^
 
-!||syosetu.com^ 
 ||note.com^
 
 ||youtube.com^
@@ -57,15 +56,15 @@ www.community.native-instruments.com^
 ||mechacomic.jp^
 ||comic.k-manga.jp^
 ||dbook.docomo.ne.jp^
-||sokuyomi.jp^
+|sokuyomi.jp^
 ||comic-walker.com^
 ||renta.papy.co.jp^
 ||csbs.shogakukan.co.jp^
 ||ciao.shogakukan.co.jp^
-||dokusho-ojikan.jp^
+||独書おじかん.jp^
 ||cmoa.jp^
 ||kc.kodansha.co.jp^
-||shogakukan-comic.jp^
+||小学館-comic.jp^
 ||vivi.tv^
 ||kuragebunch.com^
 ||comicbunch-kai.com^
@@ -87,10 +86,10 @@ www.community.native-instruments.com^
 ||younganimal.com^
 ||ganganonline.com^
 ||ga.sbcr.jp^
-||comic-growl.com^ 
+||comic-growl.com^  
 ||mangadex.org^
 ||syosetu.org^
-
+||syosetu.com^
 
 
 ! ゲーム
