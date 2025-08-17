@@ -86,28 +86,18 @@
 ||hosyusokuhou.jp^
 ||itainews.com^
 ||matomame.jp^
+||blog.esuteru.com^ 
 
 ! NSFW Blocklist
 ! Adguard Family DNS Block listにないものなどを追加
 ||hozonv.com^
 
 ! 以下のDNSルールは後日消す。Adguard Family Protection Serverでブロックされるようになっ時に消す。
-||twiigle.com^
-||twiflix.jp^
-||pornhub.com^
-||monsnode.com^
 ||imhentai.onl^
 ||imhentai.si^
 ||twivideo.net^
 ||nanjmuseum.com^
 ||vipsister23.com^
 ||pioncoo.net^
-||twihub.net^
-||twihub.me^
-||javtwi.com^
-||twivideo.net^
-||twiigle.com^
-||twiflix.jp^
-||hozonv.com^
 ||twihozon.com^ 
 ||jav.re^
