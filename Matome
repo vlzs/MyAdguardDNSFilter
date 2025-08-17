@@ -92,6 +92,9 @@
 ||jin115.com^
 ||news4vip.livedoor.biz^
 
+! まとめサイトが使用するドメインを雑にブロック
+||blog.livedoor.com^
+
 ! NSFW Blocklist
 ! Adguard Family DNS Block listにないものなどを追加
 ||hozonv.com^
