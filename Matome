@@ -110,6 +110,9 @@
 ! Adguard Family DNS Block listにないものなどを追加
 ||nanjmuseum.com^
 ||hozonv.com^
+nanjmuseum.com
+||blogroll.livedoor.net^
+
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/213188 このサイトのブロックがAdguard Family Protection Serverに適用されたら消す
 ||koe-koe.com^
