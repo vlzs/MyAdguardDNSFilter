@@ -108,17 +108,11 @@
 
 ! NSFW Blocklist
 ! Adguard Family DNS Block listにないものなどを追加
+||nanjmuseum.com^
 ||hozonv.com^
 
-! 以下のDNSルールは後日消す。Adguard Family Protection Serverでブロックされるようになっ時に消す。
-||imhentai.onl^
-||imhentai.si^
-||twivideo.net^
-||nanjmuseum.com^
-||vipsister23.com^
-||pioncoo.net^
-||twihozon.com^ 
-||jav.re^
+! https://github.com/AdguardTeam/AdguardFilters/issues/213188 このサイトのブロックがAdguard Family Protection Serverに適用されたら消す
+||koe-koe.com^
 
 ! まとめサイトのアンテナサイト
 ||labo.tv/2chnews^
