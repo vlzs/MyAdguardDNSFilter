@@ -118,6 +118,7 @@ nanjmuseum.com
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/213188 このサイトのブロックがAdguard Family Protection Serverに適用されたら消す
 ||koe-koe.com^
+||chichi-pui.com^
 
 ! まとめサイトのアンテナサイト
 ||labo.tv/2chnews^
