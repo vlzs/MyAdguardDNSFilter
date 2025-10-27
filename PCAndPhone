@@ -3,6 +3,8 @@
 ! Maintainer: kozv
 ! Contact: umineco112a@gmail.com
 
+!||yahoo.co.jp^
+!||search.yahoo.co.jp^
 
 
 ||pixiv.net^
@@ -363,8 +365,6 @@ www.community.native-instruments.com^
 ! こちらも併用してます→ https://github.com/hagezi/dns-blocklists#bypass
 ||baidu.com^
 ||bing.com^
-||yahoo.co.jp^
-||search.yahoo.co.jp^
 ||ecosia.org^
 ||searx.thegpm.org^
 ||search.brave.com^
