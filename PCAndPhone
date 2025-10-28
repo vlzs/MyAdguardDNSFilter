@@ -3,10 +3,6 @@
 ! Maintainer: kozv
 ! Contact: umineco112a@gmail.com
 
-!||yahoo.co.jp^
-!||search.yahoo.co.jp^
-
-
 ||pixiv.net^
 @@||accounts.pixiv.net^
 @@||accounts.pixiv.net/login?^
@@ -395,6 +391,8 @@ www.community.native-instruments.com^
 ||kagi.com
 ||silicon.104proxy.com^
 ||oceanhero.today^
+||yahoo.co.jp^
+||search.yahoo.co.jp^
 
 ! ブラウザ拡張機能を配布するサイト(Proxy Serverを使用するものが配布されている。これを使うとDNSブロックを迂回できる。見たくないサイトにアクセスできるようになる。なのでブロック)
 ||apps.microsoft.com
