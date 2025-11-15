@@ -10,13 +10,22 @@
 
 !||youtube.com^
 
-
 !買い物
-||netoff.co.jp
+!||netoff.co.jp
 !||amazon.co.jp^
 !||amazon.com^
 
 ||note.com^
+
+
+ ! ニュースサイト(安全な方)
+ ||bbc.com
+ ||nhk.or.jp
+ ||youtube.com^
+ ! We archive 系のサイト
+ ||archive.md
+ ||archive.today
+ ||archive.is
 
 
 ! DAWやInstrumentの公式サイト
@@ -63,7 +72,7 @@
 ||mechacomic.jp^
 ||comic.k-manga.jp^
 ||dbook.docomo.ne.jp^
-|sokuyomi.jp^
+||sokuyomi.jp^
 ||comic-walker.com^
 ||renta.papy.co.jp^
 ||csbs.shogakukan.co.jp^
