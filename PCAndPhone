@@ -1,13 +1,9 @@
 ! Title: PCAndPhone
 ! Syntax: Adguard Filter List
-! Maintainer: kozv
+! Maintainer: vlzs
 ! Contact: umineco112a@gmail.com
 
-||pixiv.net^
-@@||accounts.pixiv.net^
-@@||accounts.pixiv.net/login?^
 @@||accounts.youtube.com^
-
 !||youtube.com^
 
 !買い物
@@ -17,24 +13,22 @@
 
 ||note.com^
 
-
 ! ニュースサイト(安全な方)
 ||bbc.com
 ||nhk.or.jp
-||youtube.com^
+
 ! We archive 系のサイト
 ||archive.md
 ||archive.today
 ||archive.is
 
-
 ! DAWやInstrumentの公式サイト
-!||native-instruments.com^
+||native-instruments.com^
 ||forum.vital.audio^
-!community.native-instruments.com^ 
-!www.community.native-instruments.com^ 
+community.native-instruments.com^ 
+www.community.native-instruments.com^ 
 ||steinberg.help^
-!||presonus.com^
+||presonus.com^
 ||answers.presonus.com^
 ||feedback-software.presonus.com^
 ||forums.presonus.com^
@@ -42,6 +36,7 @@
 ||thegearpage.net^
 ||image-line.com^
 ||bitwig.com^
+
 ! Repaer関連のサイト
 ||reaper.fm^
 ||forum.cockos.com^
@@ -246,6 +241,9 @@
 ||twicomi.com^
 ||twiman.net^
 ||shonenmagazine.com^
+||pixiv.net^
+@@||accounts.pixiv.net^
+@@||accounts.pixiv.net/login?^
 
 !動画サイト
 ||bilibili.com^
@@ -259,7 +257,7 @@
 ||mastodon.social^
 ||mstdn.jp^
 ||mixi.io^
-!||bsky.app^
+||bsky.app^
 ||fedibird.com^
 ||mstdn.plus^
 ||mstdn.io^
