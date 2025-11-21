@@ -6,6 +6,10 @@
 @@||accounts.youtube.com^
 ||youtube.com^
 
+
+!||yahoo.co.jp^
+!||search.yahoo.co.jp^
+
 !買い物
 !||netoff.co.jp
 !||amazon.co.jp^
@@ -400,8 +404,7 @@ www.community.native-instruments.com^
 ||kagi.com
 ||silicon.104proxy.com^
 ||oceanhero.today^
-||yahoo.co.jp^
-||search.yahoo.co.jp^
+
 
 ! ブラウザ拡張機能を配布するサイト(Proxy Serverを使用するものが配布されている。これを使うとDNSブロックを迂回できる。見たくないサイトにアクセスできるようになる。なのでブロック)
 ||apps.microsoft.com
