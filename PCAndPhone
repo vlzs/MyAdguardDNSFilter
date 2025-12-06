@@ -29,19 +29,19 @@
 community.native-instruments.com^ 
 www.community.native-instruments.com^ 
 ||steinberg.help^
-!||presonus.com^
-!||answers.presonus.com^
-!||feedback-software.presonus.com^
-!||forums.presonus.com^
-!||studiooneforum.com
+||presonus.com^
+||answers.presonus.com^
+||feedback-software.presonus.com^
+||forums.presonus.com^
+||studiooneforum.com
 ||xferrecords.com^
 ||thegearpage.net^
 ||image-line.com^
-!||bitwig.com^
+||bitwig.com^
 
 ! Repaer関連のサイト
-!||reaper.fm^
-!||forum.cockos.com^
+||reaper.fm^
+||forum.cockos.com^
 ||askjf.com
 ||1014.org
 ||extremraym.com^
@@ -54,7 +54,7 @@ www.community.native-instruments.com^
 ! 音楽の掲示板サイト
 ||kvraudio.com^
 ||audiosex.pro^
-!||gearspace.com^
+||gearspace.com^
 ||bedroomproducersblog.com^
 ||soundonsound.com^
 ||equipboard.com^
@@ -306,8 +306,8 @@ www.community.native-instruments.com^
 ||news.nicovideo.jp^
 ||toyokeizai.net^
 ||agora-web.jp^
-!||reddit.com^
-!||vi-control.net
+||reddit.com^
+||vi-control.net
 ||istockphoto.com^
 ||icon.jp^
 ||newspicks.com^
