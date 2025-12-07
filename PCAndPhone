@@ -5,7 +5,6 @@
 
 @@||accounts.youtube.com^
 !||youtube.com^
-!||chromewebstore.google.com^
 
 !買い物
 !||netoff.co.jp
@@ -272,8 +271,8 @@ www.community.native-instruments.com^
 ||app.heymaven.com^
 ||twitter.com^
 ||x.com^
-!||yahoo.co.jp^
-!||search.yahoo.co.jp^
+||yahoo.co.jp^
+||search.yahoo.co.jp^
 
 ! ネットニュース、苦手な情報（言葉選びが苦手で影響を受けたくなかったり、見ていて時間が失われたもの、都市伝説や陰謀論を扱うもの）
 ||togetter.com^
@@ -407,11 +406,12 @@ www.community.native-instruments.com^
 
 ! ブラウザ拡張機能を配布するサイト(Proxy Serverを使用するものが配布されている。これを使うとDNSブロックを迂回できる。見たくないサイトにアクセスできるようになる。なのでブロック)
 ||apps.microsoft.com
+||chromewebstore.google.com^
 
 ! AI生成の検索でDNSブロック外のサイトを見つけてしまうためブロック
 ! AHKスクリプトなど、学習でなく成果物で出されてしまうと学習にならない、リファレンスを読む気にならない
 ||copilot.microsoft.com^
-!||chatgpt.com^
+||chatgpt.com^
 
 ! 他に使用してるDNSブロッキングルールリスト
 ||https://www.chichi-pui.com^
