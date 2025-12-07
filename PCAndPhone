@@ -411,7 +411,7 @@ www.community.native-instruments.com^
 ! AI生成の検索でDNSブロック外のサイトを見つけてしまうためブロック
 ! AHKスクリプトなど、学習でなく成果物で出されてしまうと学習にならない、リファレンスを読む気にならない
 ||copilot.microsoft.com^
-||chatgpt.com^
+!||chatgpt.com^
 
 ! 他に使用してるDNSブロッキングルールリスト
 ||https://www.chichi-pui.com^
