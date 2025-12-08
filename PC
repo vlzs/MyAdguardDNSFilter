@@ -1,4 +1,4 @@
 ! Title: PC
 ||x.com^
-!||chromewebstore.google.com^
-!||google.com^
+||chromewebstore.google.com^
+||google.com^
