@@ -24,7 +24,7 @@
 
 ! DAWやInstrumentの公式サイト
 !||native-instruments.com^
-||forum.vital.audio^
+!||forum.vital.audio^
 community.native-instruments.com^ 
 www.community.native-instruments.com^ 
 ||steinberg.help^
@@ -35,8 +35,8 @@ www.community.native-instruments.com^
 !||studiooneforum.com
 !||xferrecords.com^
 ||thegearpage.net^
-||image-line.com^
-||bitwig.com^
+!||image-line.com^
+!||bitwig.com^
 
 ! Repaer関連のサイト
 ||reaper.fm^
