@@ -3,8 +3,6 @@
 ! Maintainer: vlzs
 ! Contact: umineco112a@gmail.com
 
-@@||accounts.youtube.com^
-||youtube.com^
 
 !買い物
 ||netoff.co.jp
@@ -23,20 +21,20 @@
 ||archive.is
 
 ! DAWやInstrumentの公式サイト
-!||native-instruments.com^
+||native-instruments.com^
 ||forum.vital.audio^
-!community.native-instruments.com^ 
-!www.community.native-instruments.com^ 
+community.native-instruments.com^ 
+www.community.native-instruments.com^ 
 ||steinberg.help^
-!||presonus.com^
-!||answers.presonus.com^
-!||feedback-software.presonus.com^
+||presonus.com^
+||answers.presonus.com^
+||feedback-software.presonus.com^
 ||forums.presonus.com^
-!||studiooneforum.com
-!||xferrecords.com^
+||studiooneforum.com
+||xferrecords.com^
 ||thegearpage.net^
 ||image-line.com^
-!||bitwig.com^
+||bitwig.com^
 
 ! Repaer関連のサイト
 ||reaper.fm^
@@ -254,6 +252,9 @@
 ||dailymotion.com
 ||9gag.com^
 ||abema.tv^
+@@||accounts.youtube.com^
+||youtube.com^
+
 
 ! SNS
 ||misskey.io^
@@ -274,8 +275,6 @@
 ||app.heymaven.com^
 ||twitter.com^
 ||x.com^
-!||yahoo.co.jp^
-!||search.yahoo.co.jp^
 ||music-book.jp^
 
 ! ネットニュース、苦手な情報（言葉選びが苦手で影響を受けたくなかったり、見ていて時間が失われたもの、都市伝説や陰謀論を扱うもの）
@@ -394,6 +393,7 @@
 ||startpage.com^
 ||azureserv.com^
 ||swisscows.com^
+||yahoo.co.jp^
 ||emeraldeyex.dev^
 ||4everproxy.com^
 ||blockaway.net^
@@ -407,6 +407,7 @@
 ||kagi.com
 ||silicon.104proxy.com^
 ||oceanhero.today^
+
 
 
 ! ブラウザ拡張機能を配布するサイト(Proxy Serverを使用するものが配布されている。これを使うとDNSブロックを迂回できる。見たくないサイトにアクセスできるようになる。なのでブロック)
