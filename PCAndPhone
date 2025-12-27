@@ -27,10 +27,10 @@ community.native-instruments.com^
 www.community.native-instruments.com^ 
 ||steinberg.help^
 ||presonus.com^
-||answers.presonus.com^
-||feedback-software.presonus.com^
+!||answers.presonus.com^
+!||feedback-software.presonus.com^
 ||forums.presonus.com^
-||studiooneforum.com
+!||studiooneforum.com
 ||xferrecords.com^
 ||thegearpage.net^
 ||image-line.com^
@@ -38,7 +38,7 @@ www.community.native-instruments.com^
 
 ! Repaer関連のサイト
 ||reaper.fm^
-||forum.cockos.com^
+!||forum.cockos.com^
 ||askjf.com
 ||1014.org
 ||extremraym.com^
