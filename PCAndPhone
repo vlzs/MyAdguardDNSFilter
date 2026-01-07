@@ -17,10 +17,7 @@
 ||bbc.com
 ||nhk.or.jp
 
-! We archive 系のサイト
-||archive.md
-||archive.today
-||archive.is
+
 
 ! DAWやInstrumentの公式サイト
 !||native-instruments.com^
@@ -61,6 +58,9 @@ www.community.native-instruments.com^
 ! WebArchive
 ||web.archive.org^
 ||megalodon.jp^
+||archive.md^
+||archive.today^
+||archive.is^
 
 ! 無料試し読み、本のサブスクリプションサービス、Web漫画連載サイト
 ||bookwalker.jp^
