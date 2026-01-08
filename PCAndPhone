@@ -25,11 +25,11 @@
 community.native-instruments.com^ 
 www.community.native-instruments.com^ 
 ||steinberg.help^
-||presonus.com^
-||answers.presonus.com^
+!||presonus.com^
+!||answers.presonus.com^
 ||feedback-software.presonus.com^
-||forums.presonus.com^
-||studiooneforum.com
+!||forums.presonus.com^
+!||studiooneforum.com
 ||xferrecords.com^
 ||thegearpage.net^
 ||image-line.com^
@@ -48,15 +48,15 @@ www.community.native-instruments.com^
 ! お役立ち情報もある。でも読むだけであまり使ったことがない。一ヶ月ぐらいアクセスできなくても大丈夫なはず
 
 ! 音楽の掲示板サイト
-||kvraudio.com^
+!||kvraudio.com^
 ||audiosex.pro^
-||gearspace.com^
+!||gearspace.com^
 ||bedroomproducersblog.com^
 ||soundonsound.com^
-||equipboard.com^
+!||equipboard.com^
 
 ! WebArchive
-||web.archive.org^
+!||web.archive.org^
 ||megalodon.jp^
 ||archive.md^
 ||archive.today^
@@ -100,7 +100,7 @@ www.community.native-instruments.com^
 ||ga.sbcr.jp^
 ||comic-growl.com^  
 ||mangadex.org^
-!||syosetu.org^
+||syosetu.org^
 ||kakuyomu.jp^
 
 
