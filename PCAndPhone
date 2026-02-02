@@ -83,7 +83,7 @@
 ||comic-growl.com^  
 ||mangadex.org^
 ||syosetu.org^
-!||kakuyomu.jp^
+||kakuyomu.jp^
 
 
 ! ゲーム
@@ -228,8 +228,8 @@ https://manga-one.com/manga/1993/chapter/184768?type=chapter&sort_type=desc&page
 ||pixiv.net^
 @@||accounts.pixiv.net^
 @@||accounts.pixiv.net/login?^
-!||syosetu.com^ 
-!||ncode.syosetu.com^
+||syosetu.com^ 
+||ncode.syosetu.com^
 
 
 !動画サイト
@@ -262,6 +262,8 @@ https://manga-one.com/manga/1993/chapter/184768?type=chapter&sort_type=desc&page
 ||x.com^
 ||music-book.jp^
 ||twstalker.com^
+||threads.com^ 
+
 
 ! ネットニュース、苦手な情報（言葉選びが苦手で影響を受けたくなかったり、見ていて時間が失われたもの、都市伝説や陰謀論を扱うもの）
 ||togetter.com^
