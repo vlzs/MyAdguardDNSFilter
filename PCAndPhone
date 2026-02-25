@@ -407,7 +407,7 @@ https://manga-one.com/manga/1993/chapter/184768?type=chapter&sort_type=desc&page
 
 ! AI生成の検索でDNSブロック外のサイトを見つけてしまうためブロック
 ! AHKスクリプトなど、学習でなく成果物で出されてしまうと学習にならない、リファレンスを読む気にならない
-||copilot.microsoft.com^
+!||copilot.microsoft.com^
 ||chatgpt.com^
 
 ! 他に使用してるDNSブロッキングルールリスト
