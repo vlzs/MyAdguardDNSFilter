@@ -9,12 +9,14 @@
 !||amazon.co.jp^
 !||amazon.com^
 
-!||note.com^
+||note.com^
 
 ! ニュースサイト(安全な方)
-||bbc.com^
-||nhk.or.jp^
+!||bbc.com^
 
+||reuters.com^
+||nhk.or.jp^
+||cnn.com^
 
 @@||accounts.youtube.com^
 !||youtube.com^
@@ -27,9 +29,7 @@
 ||extremraym.com^
 ||mespotin.uber.space^
 
-!||wikipedia.org^
-! 試しにブロックするが、参考文献にあたって読むやり方ができなくなるそう←やったことはない
-! お役立ち情報もある。でも読むだけであまり使ったことがない。一ヶ月ぐらいアクセスできなくても大丈夫なはず
+||wikipedia.org^
 
 ! 音楽の掲示板サイト
 ||kvraudio.com^
@@ -248,7 +248,7 @@ https://manga-one.com/manga/1993/chapter/184768?type=chapter&sort_type=desc&page
 ||mastodon.social^
 ||mstdn.jp^
 ||mixi.io^
-!||bsky.app^
+||bsky.app^
 ||fedibird.com^
 ||mstdn.plus^
 ||mstdn.io^
