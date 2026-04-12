@@ -5,9 +5,12 @@
 
 
 
+
 @@||accounts.youtube.com^
 ||youtube.com^
 ||wikipedia.org^
+!||syosetu.com^ 
+!||ncode.syosetu.com^
 
 ! Repaer関連のサイト
 ||reaper.fm^
@@ -71,7 +74,6 @@
 ||ga.sbcr.jp^
 ||comic-growl.com^  
 ||mangadex.org^
-!||syosetu.org^
 ||kakuyomu.jp^
 
 
@@ -218,8 +220,6 @@ https://manga-one.com/manga/1993/chapter/184768?type=chapter&sort_type=desc&page
 ||pixiv.net^
 @@||accounts.pixiv.net^
 @@||accounts.pixiv.net/login?^
-||syosetu.com^ 
-||ncode.syosetu.com^
 
 
 !動画サイト
