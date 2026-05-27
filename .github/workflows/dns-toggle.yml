@@ -25,15 +25,15 @@ jobs:
           JST_HOUR=$(date -d "+9 hours" +"%H")
           echo "Current JST Hour: $JST_HOUR"
 
-          # 時間帯に応じてlist.txtの中身を切り替え
+          # 時間帯に応じてscheduled.txtの中身を切り替え
           # 朝6時のタイミング（UTC 21:00）ならブロックルールを書き込み
           if [ "$JST_HOUR" -eq 06 ]; then
-            echo "||google.com^" > list.txt
-            echo "||google.co.jp^" >> list.txt
+            echo "||google.com^" > scheduled.txt
+            echo "||google.co.jp^" >> scheduled.txt
             echo "Status: Google Blocked"
           else
             # それ以外の時間（16時など）はファイルをクリア（またはコメントのみ）
-            echo "! No blocks active" > list.txt
+            echo "! No blocks active" > scheduled.txt
             echo "Status: Google Unblocked"
           fi
 
@@ -43,8 +43,8 @@ jobs:
           git config --local user.name "github-actions[bot]"
           
           # 変更がある場合のみコミットしてプッシュ
-          if ! git diff --exit-code list.txt; then
-            git add list.txt
+          if ! git diff --exit-code scheduled.txt; then
+            git add scheduled.txt
             git commit -m "Update DNS filter list [JST $(date -d '+9 hours' +'%Y-%m-%d %H:%M')]"
             git push
           else
