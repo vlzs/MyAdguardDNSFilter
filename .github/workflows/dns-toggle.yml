@@ -1,0 +1,52 @@
+name: Dynamic DNS Filter Toggle
+
+on:
+  schedule:
+    # GitHub ActionsのスケジュールはUTC（協定世界時）で指定します。
+    # 日本時間 (JST) 6:00  -> UTC 21:00 (前日)
+    - cron: '0 21 * * *'
+    # 日本時間 (JST) 16:00 -> UTC 7:00
+    - cron: '0 7 * * *'
+  workflow_dispatch: # 手動でテスト実行するためのボタンを設置
+
+jobs:
+  update-filter:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # リポジトリへの書き込み権限を許可
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update DNS List based on JST time
+        run: |
+          # 現在の日本時間（時間のみ）を取得
+          JST_HOUR=$(date -d "+9 hours" +"%H")
+          echo "Current JST Hour: $JST_HOUR"
+
+          # 時間帯に応じてlist.txtの中身を切り替え
+          # 朝6時のタイミング（UTC 21:00）ならブロックルールを書き込み
+          if [ "$JST_HOUR" -eq 06 ]; then
+            echo "||google.com^" > list.txt
+            echo "||google.co.jp^" >> list.txt
+            echo "Status: Google Blocked"
+          else
+            # それ以外の時間（16時など）はファイルをクリア（またはコメントのみ）
+            echo "! No blocks active" > list.txt
+            echo "Status: Google Unblocked"
+          fi
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@://github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # 変更がある場合のみコミットしてプッシュ
+          if ! git diff --exit-code list.txt; then
+            git add list.txt
+            git commit -m "Update DNS filter list [JST $(date -d '+9 hours' +'%Y-%m-%d %H:%M')]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
