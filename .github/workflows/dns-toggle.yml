@@ -30,6 +30,7 @@ jobs:
           if [ "$JST_HOUR" -lt 16 ] || [ "$JST_HOUR" -ge 20 ] ; then
             echo "||google.com^" > scheduled.txt
             echo "||google.co.jp^" >> scheduled.txt
+            echo "||youtube.com^" >> scheduled.txt
             echo "Status: Google Blocked"
           else
             # それ以外の時間（16時~19:59）はファイルをクリア（またはコメントのみ）
