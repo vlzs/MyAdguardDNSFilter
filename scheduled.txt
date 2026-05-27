@@ -1,2 +1,1 @@
-||google.com^
-||google.co.jp^
+! No blocks active
