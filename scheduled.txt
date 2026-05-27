@@ -1,1 +1,2 @@
-
+||google.com^
+||google.co.jp^
