@@ -26,13 +26,13 @@ jobs:
           echo "Current JST Hour: $JST_HOUR"
 
           # 時間帯に応じてscheduled.txtの中身を切り替え
-          # 夜20時のタイミング（UTC 11:00）ならブロックルールを書き込み
+          # 0~16時、20~24時のタイミングならブロックルールを書き込み
           if [ "$JST_HOUR" -lt 16 ] || [ "$JST_HOUR" -ge 20 ] ; then
             echo "||google.com^" > scheduled.txt
             echo "||google.co.jp^" >> scheduled.txt
             echo "Status: Google Blocked"
           else
-            # それ以外の時間（16時など）はファイルをクリア（またはコメントのみ）
+            # それ以外の時間（16時~19:59）はファイルをクリア（またはコメントのみ）
             echo "! No blocks active" > scheduled.txt
             echo "Status: Google Unblocked"
           fi
