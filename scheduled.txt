@@ -1,5 +1,5 @@
 ! Title: scheduled
-||google.com^
+!||google.com^
 ||google.co.jp^
 ||youtube.com^
 ||amazon.com^
