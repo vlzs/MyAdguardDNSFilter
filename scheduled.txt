@@ -1,5 +1,2 @@
 ! Title: scheduled
-||google.com^
-||google.co.jp^
-||amazon.com^
-||amazon.co.jp^
+! No blocks active
