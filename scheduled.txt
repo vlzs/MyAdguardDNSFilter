@@ -3,5 +3,3 @@
 ||google.co.jp^
 ||youtube.com^
 ||nicovideo.jp^
-||amazon.com^
-||amazon.co.jp^
