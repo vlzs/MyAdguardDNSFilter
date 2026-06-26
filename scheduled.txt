@@ -1,2 +1,7 @@
 ! Title: scheduled
-! No blocks active
+||google.com^
+||google.co.jp^
+||youtube.com^
+||nicovideo.jp^
+||amazon.com^
+||amazon.co.jp^
