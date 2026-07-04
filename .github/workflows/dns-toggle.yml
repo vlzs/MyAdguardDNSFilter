@@ -35,6 +35,7 @@ jobs:
             echo "||nicovideo.jp^" >> scheduled.txt
             echo "||amazon.com^" >> scheduled.txt
             echo "||amazon.co.jp^" >> scheduled.txt
+            echo "||note.com^" >> scheduled.txt
             echo "Status: Google Blocked"
           else
             # それ以外の時間（16時~19:59）はファイルをクリア（またはコメントのみ）
