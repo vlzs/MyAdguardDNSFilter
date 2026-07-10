@@ -188,7 +188,7 @@
 
 ! ブラウザ拡張機能を配布するサイト(Proxy Serverを使用するものが配布されている。これを使うとDNSブロックを迂回できる。見たくないサイトにアクセスできるようになる。なのでブロック)
 ||apps.microsoft.com
-||chromewebstore.google.com^
+!||chromewebstore.google.com^
 ||microsoftedge.microsoft.com
 
 ! DTMセール情報
