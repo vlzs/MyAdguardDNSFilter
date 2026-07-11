@@ -1,8 +1,8 @@
 ! Title: scheduled
-||google.com^
-||google.co.jp^
+!||google.com^
+!||google.co.jp^
 ||youtube.com^
 ||nicovideo.jp^
-||amazon.com^
-||amazon.co.jp^
+!||amazon.com^
+!||amazon.co.jp^
 ||note.com^
