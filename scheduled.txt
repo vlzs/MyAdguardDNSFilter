@@ -5,4 +5,4 @@
 ||nicovideo.jp^
 !||amazon.com^
 !||amazon.co.jp^
-||note.com^
+!||note.com^
