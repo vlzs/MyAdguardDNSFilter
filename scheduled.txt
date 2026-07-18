@@ -3,6 +3,6 @@
 !||google.co.jp^
 !||youtube.com^
 ||nicovideo.jp^
-||amazon.com^
-||amazon.co.jp^
+!||amazon.com^
+!||amazon.co.jp^
 ||note.com^
