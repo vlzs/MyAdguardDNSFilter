@@ -6,4 +6,4 @@
 ||amazon.com^
 ||amazon.co.jp^
 ||note.com^
-||wikipedia.org^
+!||wikipedia.org^
