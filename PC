@@ -1,3 +1,8 @@
 ! Title: PC
-||x.com^
 ||chromewebstore.google.com^
+
+||nitter.com^
+||nitter.domain.glass^
+||nitter.fdn.fr^
+||nitter.it^
+||nitter.net^
