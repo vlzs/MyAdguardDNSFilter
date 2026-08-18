@@ -31,12 +31,14 @@ jobs:
             echo "! Title: scheduled" > scheduled.txt
             echo "||google.com^" >> scheduled.txt
             echo "||google.co.jp^" >> scheduled.txt
+            echo "@@||accounts.google.com^" >> scheduled.txt
             echo "||youtube.com^" >> scheduled.txt
             echo "||nicovideo.jp^" >> scheduled.txt
             echo "||amazon.com^" >> scheduled.txt
             echo "||amazon.co.jp^" >> scheduled.txt
             echo "||note.com^" >> scheduled.txt
             echo "||wikipedia.org^" >> scheduled.txt
+            echo "||rakuten.co.jp^" >> scheduled.txt
             echo "Status: Google Blocked"
           else
             # それ以外の時間（16時~19:59）はファイルをクリア（またはコメントのみ）
