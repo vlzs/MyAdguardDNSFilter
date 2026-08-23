@@ -37,7 +37,7 @@ jobs:
             echo "||amazon.com^" >> scheduled.txt
             echo "||amazon.co.jp^" >> scheduled.txt
             echo "||note.com^" >> scheduled.txt
-            echo "||wikipedia.org^" >> scheduled.txt
+            echo "!||wikipedia.org^" >> scheduled.txt
             echo "||rakuten.co.jp^" >> scheduled.txt
             echo "Status: Google Blocked"
           else
