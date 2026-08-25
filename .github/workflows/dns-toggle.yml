@@ -29,14 +29,14 @@ jobs:
           # 0~16時、20~24時のタイミングならブロックルールを書き込み
           if [ "$JST_HOUR" -lt 16 ] || [ "$JST_HOUR" -ge 20 ] ; then
             echo "! Title: scheduled" > scheduled.txt
-            echo "||google.com^" >> scheduled.txt
-            echo "||google.co.jp^" >> scheduled.txt
+            echo "!||google.com^" >> scheduled.txt
+            echo "!||google.co.jp^" >> scheduled.txt
             echo "@@||accounts.google.com^" >> scheduled.txt
-            echo "||youtube.com^" >> scheduled.txt
+            echo "!||youtube.com^" >> scheduled.txt
             echo "||nicovideo.jp^" >> scheduled.txt
             echo "||amazon.com^" >> scheduled.txt
             echo "||amazon.co.jp^" >> scheduled.txt
-            echo "||note.com^" >> scheduled.txt
+            echo "!||note.com^" >> scheduled.txt
             echo "!||wikipedia.org^" >> scheduled.txt
             echo "||rakuten.co.jp^" >> scheduled.txt
             echo "Status: Google Blocked"
