@@ -6,3 +6,5 @@
 ||nitter.fdn.fr^
 ||nitter.it^
 ||nitter.net^
+
+@@||nicovideo.jp
