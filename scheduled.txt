@@ -4,8 +4,8 @@
 @@||accounts.google.com^
 !||youtube.com^
 ||nicovideo.jp^
-||amazon.com^
-||amazon.co.jp^
+!||amazon.com^
+!||amazon.co.jp^
 !||note.com^
 !||wikipedia.org^
 ||rakuten.co.jp^
