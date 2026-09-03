@@ -1,11 +1,11 @@
 ! Title: scheduled
-||google.com^
-||google.co.jp^
+!||google.com^
+!||google.co.jp^
 @@||accounts.google.com^
 ||youtube.com^
 ||nicovideo.jp^
-||amazon.com^
-||amazon.co.jp^
+!||amazon.com^
+!||amazon.co.jp^
 ||note.com^
 ||wikipedia.org^
 ||rakuten.co.jp^
