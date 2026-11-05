@@ -2,7 +2,7 @@
 ||google.com^
 ||google.co.jp^
 @@||accounts.google.com^
-||youtube.com^
+!||youtube.com^
 ||nicovideo.jp^
 ||amazon.com^
 ||amazon.co.jp^
