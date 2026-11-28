@@ -1,5 +1,5 @@
 ! Title: PC
-||chromewebstore.google.com^
+!||chromewebstore.google.com^
 
 ||nitter.com^
 ||nitter.domain.glass^
